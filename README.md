@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Febriansah Dirgantara</h1>
 <h3 align="center">An Elixir Developer & Enthusiast From Indonesia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=febrd&label=Profile%20views&color=0e75b6&style=flat" alt="febrd" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [febrian.id/portfolio](febrian.id/portfolio)
 
