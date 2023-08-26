@@ -1,4 +1,4 @@
-<h3 align="center">Elixir Developer From Indonesia. <br> <br>Let's code some magic! 💻</h3>
+<h3 align="center">Elixir Developer <br> <br>Let's code some magic! 💻</h3>
 <hr>
 - 🌱 My Favorite Framework **Phoenix**
 
