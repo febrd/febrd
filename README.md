@@ -1,3 +1,5 @@
+<p style="text-align: center;">
+
 <h3 align="center">Elixir Developer <br> <br>Let's code some magic! 💻<hr></h3>
 
 - 🌱 My Favorite Framework **Phoenix**
@@ -18,4 +20,5 @@
 <a href="https://fb.com/febri.ansah.d" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="febri.ansah.d" height="40" width="40" /></a>
 <a href="https://instagram.com/febr.id" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="febr.id" height="40" width="40" /></a>
 <a href="mailto:halo@febrian.id" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="febr.id" height="40" width="40" /></a>
+</p>
 </p>
