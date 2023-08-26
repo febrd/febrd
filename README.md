@@ -1,5 +1,5 @@
-<h3 align="center">Elixir Developer <br> <br>Let's code some magic! 💻</h3>
-<hr>
+<h3 align="center">Elixir Developer <br> <br>Let's code some magic! 💻<hr></h3>
+
 - 🌱 My Favorite Framework **Phoenix**
 
 - 👨‍💻 All of my projects are available at [https://febrian.id/portfolio](https://febrian.id/portfolio)
