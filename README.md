@@ -16,7 +16,7 @@
 
 <h3 align="left">Keep in Touch :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/febrid" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="febrid" height="30" width="40" width="70%" /></a>
+<a href="https://linkedin.com/in/febrid" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="febrid"  width="70%" /></a>
 <a href="https://fb.com/febri.ansah.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="febri.ansah.d" height="30" width="40" /></a>
 <a href="https://instagram.com/febr.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="febr.id" height="30" width="40" /></a>
 </p>
