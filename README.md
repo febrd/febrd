@@ -1,12 +1,10 @@
-<h3 align="center">An Elixir Developer & Enthusiast From Indonesia. <br> Let's code some magic! 💻</h3>
+<h3 align="center">Elixir Developer From Indonesia. <br> <br>Let's code some magic! 💻</h3>
 
 - 🌱 My Favorite Framework **Phoenix**
 
 - 👨‍💻 All of my projects are available at [https://febrian.id/portfolio](https://febrian.id/portfolio)
 
 - 📝 I regularly write articles on [https://febrian.id/blog](https://febrian.id/blog)
-
-- 📫 How to reach me **halo@febrian.id**
 
 - 📄 Know about my experiences [https://febrian.id](https://febrian.id)
 
