@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Febriansah Dirgantara</h1>
-<h3 align="center">An Elixir Developer & Enthusiast From Indonesia.</h3>
+<h3 align="center">Hi 👋, I'm Febriansah Dirgantara</h3>
+<h5 align="center">An Elixir Developer & Enthusiast From Indonesia. <br> Let's code some magic! 💻</h5>
 
 - 🌱 My Favorite Framework **Phoenix**
 
