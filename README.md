@@ -1,5 +1,5 @@
 <h3 align="center">Elixir Developer From Indonesia. <br> <br>Let's code some magic! 💻</h3>
-
+<hr>
 - 🌱 My Favorite Framework **Phoenix**
 
 - 👨‍💻 All of my projects are available at [https://febrian.id/portfolio](https://febrian.id/portfolio)
