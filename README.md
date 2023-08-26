@@ -1,5 +1,4 @@
-<h3 align="center">Hi 👋, I'm Febriansah Dirgantara</h3>
-<h5 align="center">An Elixir Developer & Enthusiast From Indonesia. <br> Let's code some magic! 💻</h5>
+<h3 align="center">An Elixir Developer & Enthusiast From Indonesia. <br> Let's code some magic! 💻</h3>
 
 - 🌱 My Favorite Framework **Phoenix**
 
@@ -15,7 +14,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrd&show_icons=true&locale=en&layout=compact" alt="febrd" /></p>
 
 
-<h3 align="left">Keep in Touch with me:</h3>
+<h3 align="left">Keep in Touch :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/febrid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="febrid" height="30" width="40" /></a>
 <a href="https://fb.com/febri.ansah.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="febri.ansah.d" height="30" width="40" /></a>
