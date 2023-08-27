@@ -11,7 +11,7 @@
 - 📄 Know about my experiences [https://febrian.id](https://febrian.id)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/all-langs?username=febrd&show_icons=true&locale=en&layout=compact" alt="febrd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrd&show_icons=true&locale=en&layout=compact" alt="febrd" /></p>
 
 
 <h3 align="left">Keep in Touch :</h3>
