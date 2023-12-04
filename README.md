@@ -9,7 +9,7 @@
 📝 I regularly write articles on [https://febrian.id/blog](https://febrian.id/blog)
 
 📄 Know about my experiences [https://febrian.id](https://febrian.id)
-
+</div>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrd&show_icons=true&locale=en&layout=compact" alt="febrd" /></p>
 
   <h3 align="left">Keep in Touch :</h3>
@@ -21,4 +21,4 @@
     <a href="mailto:halo@febrian.id" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="febr.id" height="40" width="40" /></a>
   </p>
   
-</div>
+
