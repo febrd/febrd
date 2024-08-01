@@ -10,6 +10,8 @@
 
 📄 Learn more about my experiences [here](https://febrian.id)
 
+🔐 **Top Network Security Voice on LinkedIn**
+
 <br/>
 
 <p>
@@ -29,4 +31,3 @@
 
 <br/>
 <hr>
-
