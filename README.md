@@ -29,16 +29,4 @@
 
 <br/>
 <hr>
-<h3 align="center">Campus Projects:</h3>
 
-<p align="center">
- <strong>CollegeID</strong> repository! This is where you can find all the campus-related projects and collaborative efforts. Explore the innovative solutions we’re developing to enhance the educational experience.
-</p>
-
-<p align="center">
-  <a href="https://github.com/collegeid" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=collegeid&show_icons=true&locale=en&layout=compact" alt="collegeid" /></a>
-</p>
-
-<br/>
-
-</div>
