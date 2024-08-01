@@ -28,20 +28,11 @@
 </p>
 
 <br/>
-
+<hr>
 <h3 align="center">Campus Projects:</h3>
 
 <p align="center">
-  Welcome to the <strong>CollegeID</strong> repository! This is where you can find all the campus-related projects and collaborative efforts. Explore the innovative solutions we’re developing to enhance the educational experience.
-</p>
-
-<p align="center">
-  <a href="https://github.com/febrd/collegeid">
-    <img src="https://img.shields.io/github/repo-size/febrd/collegeid" alt="Repository Size" />
-  </a>
-  <a href="https://github.com/febrd/collegeid">
-    <img src="https://img.shields.io/github/languages/top/febrd/collegeid" alt="Top Language" />
-  </a>
+ <strong>CollegeID</strong> repository! This is where you can find all the campus-related projects and collaborative efforts. Explore the innovative solutions we’re developing to enhance the educational experience.
 </p>
 
 <p align="center">
@@ -50,10 +41,6 @@
 
 <br/>
 
-<h3 align="center">Codebase Highlights:</h3>
 
-<p align="center">
-  Dive into the <strong>CollegeID</strong> codebase to see the various technologies and methodologies we are using. From code snippets to complete implementations, get insights into our development practices and contributions.
-</p>
 
 </div>
