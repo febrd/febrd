@@ -36,11 +36,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrd&repo=collegeid&show_icons=true&locale=en&layout=compact" alt="collegeid" />
+  <a href="https://github.com/collegeid" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=collegeid&show_icons=true&locale=en&layout=compact" alt="collegeid" /></a>
 </p>
 
 <br/>
-
-
 
 </div>
