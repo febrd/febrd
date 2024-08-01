@@ -25,8 +25,8 @@
 
 <p align="center">Dive into my campus-related projects and see how we are revolutionizing learning with technology. From innovative tools to collaborative platforms, explore how we're making a difference.</p>
 
-- 🌟 [**CollegeID**](https://github.com/febrd/collegeid) - A treasure trove of campus-related projects and collaborations.
+ 🌟 [**CollegeID**](https://github.com/febrd/collegeid) - A treasure trove of campus-related projects and collaborations.
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrd&repo=collegeid&show_icons=true&locale=en&layout=compact" alt="collegeid" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=collegeid&show_icons=true&locale=en&layout=compact" alt="collegeid" /></p>
 
 </div>
