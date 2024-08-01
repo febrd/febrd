@@ -10,7 +10,7 @@
 
 📄 Learn more about my experiences [here](https://febrian.id)
 
-🔐 **Top Network Security Voice on LinkedIn**
+🏆 **Top Network Security Voice on LinkedIn**
 
 <br/>
 
