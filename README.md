@@ -2,17 +2,23 @@
 
 <div align="center">
 
-🌱 My Favorite Framework **Phoenix**
+🌱 **My Favorite Framework**: Phoenix
 
-👨‍💻 All of my projects are available at [https://febrian.id/portfolio](https://febrian.id/portfolio)
+👨‍💻 Explore all my projects at [Portfolio](https://febrian.id/portfolio)
 
-📝 I regularly write articles on [https://febrian.id/blog](https://febrian.id/blog)
+📝 Read my articles on [Blog](https://febrian.id/blog)
 
-📄 Know about my experiences [https://febrian.id](https://febrian.id)
+📄 Learn more about my experiences [here](https://febrian.id)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrd&show_icons=true&locale=en&layout=compact" alt="febrd" /></p>
+<br/>
 
-<h3 align="center">Stay Connected :</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrd&show_icons=true&locale=en&layout=compact" alt="febrd" />
+</p>
+
+<br/>
+
+<h3 align="center">Stay Connected:</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/febrid" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="40" width="40" /></a>
@@ -21,12 +27,33 @@
   <a href="mailto:halo@febrian.id" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Email" height="40" width="40" /></a>
 </p>
 
-<h3 align="center">Explore My Campus Codebase :</h3>
+<br/>
 
-<p align="center">Dive into my campus-related projects and see how we are revolutionizing learning with technology. From innovative tools to collaborative platforms, explore how we're making a difference.</p>
+<h3 align="center">Campus Projects:</h3>
 
- 🌟 [**CollegeID**](https://github.com/febrd/collegeid) - A treasure trove of campus-related projects and collaborations.
+<p align="center">
+  Welcome to the <strong>CollegeID</strong> repository! This is where you can find all the campus-related projects and collaborative efforts. Explore the innovative solutions we’re developing to enhance the educational experience.
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=collegeid&show_icons=true&locale=en&layout=compact" alt="collegeid" /></p>
+<p align="center">
+  <a href="https://github.com/febrd/collegeid">
+    <img src="https://img.shields.io/github/repo-size/febrd/collegeid" alt="Repository Size" />
+  </a>
+  <a href="https://github.com/febrd/collegeid">
+    <img src="https://img.shields.io/github/languages/top/febrd/collegeid" alt="Top Language" />
+  </a>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=febrd&repo=collegeid&show_icons=true&locale=en&layout=compact" alt="collegeid" />
+</p>
+
+<br/>
+
+<h3 align="center">Codebase Highlights:</h3>
+
+<p align="center">
+  Dive into the <strong>CollegeID</strong> codebase to see the various technologies and methodologies we are using. From code snippets to complete implementations, get insights into our development practices and contributions.
+</p>
 
 </div>
