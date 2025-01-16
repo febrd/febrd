@@ -3,14 +3,14 @@
 <div align="center">
 
 🌱 **My Favorite Framework**: Phoenix
-
+<!--
 👨‍💻 Explore all my projects at [Portfolio](https://febrian.id/portfolio)
 
 📝 Read my articles on [Blog](https://febrian.id/blog)
 
 📄 Learn more about my experiences [here](https://febrian.id)
 
-🏆 **Top Network Security Voice on LinkedIn**
+🏆 **Top Network Security Voice on LinkedIn** -->
 
 <br/>
 
