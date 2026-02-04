@@ -5,7 +5,7 @@
 ### Elixir Developer | Backend Engineer
 
 <p>
-  I specialize in building scalable, distributed systems using **Elixir** & **Phoenix**.
+  I specialize in building scalable, distributed systems using <b>Elixir</b> & <b>Phoenix</b>.
   <br>Focused on high-performance backend solutions and clean architecture.
 </p>
 
